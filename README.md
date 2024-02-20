@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm EnginnerMazid</h1>
+<h1 align="center">Hi 👋, I'm EngineerMazid</h1>
 <h3 align="center">Mazid
 🌐 Programmer & Network Engineer
 📚 Java & Python
